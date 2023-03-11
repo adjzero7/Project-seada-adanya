@@ -1,0 +1,7 @@
+{
+  "name": "sulit",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
